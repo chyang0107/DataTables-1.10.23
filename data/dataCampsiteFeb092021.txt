@@ -1,5 +1,6 @@
 {
-    "dataCampsite":[
+    "dataCampsite":
+    [
         ["Grand Lake State Park (Bernice Area)","RV030","RV 50S","Back-In","50 Amp","Bernice State Park","Yes","30","Yes","No","Yes","Keep","Usable","Concrete","Yes","Keep","Usable","Pedestal","Semi-Modern","Usable","Interior","Asphalt","Keep","Yes","Keep","Yes","Yes","Keep","Potable","No","","","None","No","","No","8/16/2011","Max Length50FT: Electric 30AMP to 50AMP","RV"  ],
         ["Grand Lake State Park (Bernice Area)","RV031","RV 50S","Back-In","50 Amp","Bernice State Park","Yes","31","Yes","No","Yes","Keep","Usable","Concrete","Yes","Keep","Usable","Pedestal","Semi-Modern","Usable","Interior","Asphalt","Keep","Yes","Keep","Yes","Yes","Keep","Potable","No","","","None","Yes","Usable","No","8/16/2011","Max Length50FT: Electric 30AMP to 50AMP","RV"  ],
         ["Grand Lake State Park (Bernice Area)","RV032","RV 50S","Back-In","50 Amp","Bernice State Park","Yes","32","Yes","No","Yes","Keep","Accessible","Concrete","Yes","Keep","Accessible","Pedestal","Semi-Modern","Accessible","Interior","Concrete","Keep","Yes","Keep","Yes","Yes","Keep","Potable","No","","","Partial","No","","No","8/16/2011","Max Length50FT: Electric 30AMP to 50AMP","RV"  ],
