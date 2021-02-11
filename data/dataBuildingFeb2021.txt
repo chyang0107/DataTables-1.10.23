@@ -1,5 +1,5 @@
 {
-    "dataBuilding":
+    "data":
     [
   ["Grand Lake State Park (Bernice Area)","Other","Keep","Metal","No","No","Lookout Tower","8/15/2011","",204,1,"No","","","","Wood","","","","","",""  ],
   ["Grand Lake State Park (Bernice Area)","Other","Keep","Metal","No","No","Lookout Tower","8/15/2011","",212,1,"No","","","","Wood","","","","","",""  ],
